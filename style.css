@@ -133,11 +133,11 @@ a{
     transition: all ease 0.3s;
 }
 .model{
-    width:500px;
-    height: 500px;
+    width:800px;
+    height: 800px;
     position: absolute;
     top: 50%;
-    right: 7%;
+    right: -10%;
     transform: translate(-7%,-50%);
 }
 .model img{
